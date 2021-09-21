@@ -5,7 +5,7 @@ We're a specialist insurance agency, building solutions on Github. We've been op
 ![Team](https://imgur.com/gG0kwil.png)
 
 ## 👩‍💻 We're the industry experts
-Using Github, we've been able to quickly and effectively develop solutions to make our business more efficient. Even our website [mhia.com.au](https://mhia.com.au) was made using GitHub!
+We're the experts when it comes to insurance for people living in land lease communities. Using Github, we've been able to quickly and effectively develop solutions to make our business more efficient. Even our website [mhia.com.au](https://mhia.com.au) was made using GitHub!
 
 <!--
 
