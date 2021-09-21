@@ -1,4 +1,4 @@
-# Hey, this is MHIA!👋
+# Hey, this is MHIA👋
 
 We're a specialist insurance agency, building solutions on Github. We've been operating locally from the Central Coast, NSW Australia since **1990**! Since then we've continued to refine and improve our products to meet and exceed the needs of our clients.
 
