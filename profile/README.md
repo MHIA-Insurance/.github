@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hey, this is MHIA!👋
+
+We're a specialist insurance agency, building solutions on Github. We've been operating locally from the Central Coast, NSW Australia for **over 30 years**! Since then we've continued to refine and improve our products to meet and exceed the needs of our clients.
+
+![Team](https://imgur.com/undefined)
+
+## 👩‍💻 We're the industry experts
+Using Github, we've been able to quickly and effectively develop solutions to make our business more efficient. Even our website [mhia.com.au](https://mhia.com.au) was made using GitHub!
 
 <!--
 
